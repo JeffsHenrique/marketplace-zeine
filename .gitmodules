@@ -1,6 +1,6 @@
 [submodule "server"]
     path = server
-    url = ""
+    url = "https://github.com/JeffsHenrique/be-marketplace-zeine"
 [submodule "web"]
     path = web
-    url = ""
+    url = "https://github.com/JeffsHenrique/fe-marketplace-zeine"
